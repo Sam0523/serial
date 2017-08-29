@@ -35,7 +35,7 @@ Ready to jump in?
 Once you have gathered the dependencies, you need to checkout the software from github.com: 
 
 <pre>
-    git clone git://github.com/wjwwood/serial.git
+    git clone git://github.com/Sam0523/serial.git
 </pre>
 
 Once you have checked out the source code from github.com you can enter the directory and build the software.
@@ -43,7 +43,6 @@ Once you have checked out the source code from github.com you can enter the dire
 <pre>
     cd serial
     make
-    make test # (optional) builds the example and tests, and runs the tests.
     make doc  # (optional) builds _this_ documentation.
 </pre>
 
